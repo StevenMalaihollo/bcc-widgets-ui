@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "title": "Your profile",
+    "edit-profile": "Edit profile",
+    "profile-picture": "My Profile Picture",
+    "logins": "My Logins",
+    "privacy-policy": "Privacy Policy",
+    "support": "Support",
+    "sign-out": "Sign Out"
+  },
+  "search": {
+    "input-placeholder": "Search",
+    "input-title": "Search",
+    "results-websites-title": "Websites",
+    "results-no-websites-found": "No websites found",
+    "results-no-persons-found": "No matches found",
+    "results-content-title": "Content",
+    "search-literature": "Search for '{searchQuery}' in literature",
+    "search-BMM": "Search for '{searchQuery}' on BMM",
+    "search-portal": "Search for '{searchQuery}' on the BCC Portal",
+    "person-title": "Address Search",
+    "person-result": {
+      "homePhone": "Home Phone",
+      "cellphone": "Mobile Phone",
+      "name": "Name",
+      "email": "Email",
+      "address": "Address",
+      "locality": "Local Church"
+    },
+    "filterInfo": "The results have been filtered based on your privacy settings: <a href=\"{link}\">(read more)</a>"
+  },
+  "literature": {
+    "title": "Subscriptions",
+    "subtitle": "Read publications you subscribe to online!",
+    "teaser-title": "BCC's digital library",
+    "teaser-description": "Read content-rich articles and books from the Stiftelsen Skjulte Skatters Forlag.",
+    "teaser-navigate-to-app": "See in Literature",
+    "subscribe-to-publication": "Subscribe to",
+    "subscribed-on-publication": "Subscribed",
+    "latest-issue": "Last issue",
+    "navigate-to-publication": "See all",
+    "navigate-to-signup-form": "Read more"
+  },
+  "preferences": {
+    "title": "Preferences",
+    "save-my-preferences": "Save preferences",
+    "sections": {
+      "local": "Local",
+      "church": "Churches",
+      "music": "Music",
+      "recreation": "Recreation",
+      "sport": "Sports",
+      "brunstad": "Brunstad",
+      "other": "Other"
+    }
+  },
+  "calendar": {
+    "week": {
+      "title": "Calendar",
+      "showFullCalendar": "Show full calendar"
+    },
+    "event": {
+      "local-time": "local time"
+    },
+    "preferences": {
+      "timezone": "Time zone",
+      "calendar-list": "Available calendars",
+      "add-to-mobile": "Get calendar on your mobile phone"
+    },
+    "ical": {
+      "linkCopiedConfirmation": "Link copied to clipboard.",
+      "linkCopiedError": "Could not copy link to clipboard. Please copy manually.",
+      "copyLinkButtonText": "Copy link"
+    }
+  },
+  "newsfeed": {
+    "local": {
+      "title": "Local",
+      "subtitle": "News and information from around "
+    },
+    "favorite": {
+      "title": "My Favorites",
+      "subtitle": "News from {localChurchName} and your favorite websites"
+    },
+    "worldwide": {
+      "title": "Worldwide",
+      "subtitle": "New from websites around the globe"
+    },
+    "preferences": {
+      "newsfeed-list": "Available feeds"
+    },
+    "ssf": {
+      "title": "Hidden Treasures",
+      "subtitle": "Read the latest articles from SSSF here!"
+    }
+  },
+  "tvguide": {
+    "title": "TV Guide",
+    "local-time-info": "Time is displayed in your local time",
+    "no-results": "No results found",
+    "watch-live": "Watch live"
+  },
+  "weekdays": {
+    "today": "Today",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
+  },
+  "birthday": {
+    "title": "Birthdays"
+  }
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_generic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#666CF6" offset="0%"></stop>
+            <stop stop-color="#5EAFE2" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="10" cy="10" r="10"></circle>
+        <circle id="path-4" cx="10" cy="10" r="10"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Generic">
+            <g>
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Oval" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <ellipse id="Oval-Copy-3" stroke-opacity="0.2" stroke="#FFFFFF" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)" cx="10" cy="1" rx="5.5" ry="3.5"></ellipse>
+                    <ellipse id="Oval-Copy-4" stroke-opacity="0.2" stroke="#FFFFFF" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)" cx="10" cy="3" rx="9.5" ry="6.5"></ellipse>
+                    <path d="M10,15.5 C4.23129006,15.5 -0.5,12.188097 -0.5,8 C-0.5,5.75011902 0.784813707,0.307230704 2.46169192,-4.09430731 C4.66858532,-9.88705071 7.22358345,-13.4331055 10,-13.4331055 C12.7764166,-13.4331055 15.3314147,-9.88705071 17.5383081,-4.09430731 C19.2151863,0.307230704 20.5,5.75011902 20.5,8 C20.5,12.188097 15.7687099,15.5 10,15.5 Z" id="Oval-Copy-5" stroke-opacity="0.2" stroke="#FFFFFF" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                    <path d="M10,19.5334473 C4.23116244,19.5334473 -0.5,16.2137024 -0.5,12.0166836 C-0.5,9.76174802 0.784756514,4.30606788 2.46155054,-0.105789478 C4.6684184,-5.91233821 7.22317762,-9.46655273 10,-9.46655273 C12.7768224,-9.46655273 15.3315816,-5.91233821 17.5384495,-0.105789478 C19.2152435,4.30606788 20.5,9.76174802 20.5,12.0166836 C20.5,16.2137024 15.7688376,19.5334473 10,19.5334473 Z" id="Oval-Copy-6" stroke-opacity="0.2" stroke="#FFFFFF" fill-opacity="0.1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <circle stroke-opacity="0.1" stroke="#FFFFFF" cx="10" cy="10" r="9.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

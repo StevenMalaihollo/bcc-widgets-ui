@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "title": "Jouw profiel",
+    "edit-profile": "Profiel bewerken",
+    "profile-picture": "Mijn profielafbeelding",
+    "logins": "Mijn logins",
+    "privacy-policy": "Privacybeleid",
+    "support": "Support",
+    "sign-out": "Afmelden"
+  },
+  "search": {
+    "input-placeholder": "Zoeken",
+    "input-title": "Zoeken",
+    "results-websites-title": "Websites",
+    "results-no-websites-found": "Geen websites gevonden",
+    "results-no-persons-found": "Geen zoekresultaten gevonden",
+    "results-content-title": "Inhoud",
+    "search-literature": "Zoeken naar '{searchQuery}' in literatuur",
+    "search-BMM": "Zoeken naar '{searchQuery}' in BMM",
+    "search-portal": "Zoeken naar '{searchQuery}' op het BCC Portal",
+    "person-title": "Adresboek",
+    "person-result": {
+      "homePhone": "Thuis",
+      "cellphone": "Mobiel",
+      "name": "Naam",
+      "email": "Email",
+      "address": "Adres",
+      "locality": "Gemeente"
+    },
+    "filterInfo": "De resultaten zijn gefilterd op basis van uw privacy-instellingen: <a href=\"{link}\">(lees meer)</a>"
+  },
+  "literature": {
+    "title": "Abonnementen",
+    "subtitle": "Lees online de publicaties waar u zich op abonneert!",
+    "teaser-title": "BCC's digitale bibliotheek",
+    "teaser-description": "Lees inhoudsrijke artikelen en boeken van Stichting Skjulte Skatters Forlag.",
+    "teaser-navigate-to-app": "Zie in Literatuur",
+    "subscribe-to-publication": "Abonneren op",
+    "subscribed-on-publication": "Geabonneerd",
+    "latest-issue": "Laatste uitgave",
+    "navigate-to-publication": "Zie alle",
+    "navigate-to-signup-form": "Meer lezen"
+  },
+  "preferences": {
+    "title": "Voorkeuren",
+    "save-my-preferences": "Voorkeuren opslaan",
+    "sections": {
+      "local": "Lokaal",
+      "church": "Gemeenten",
+      "music": "Muziek",
+      "recreation": "Recreatie",
+      "sport": "Sport",
+      "brunstad": "Brunstad",
+      "other": "Overig"
+    }
+  },
+  "calendar": {
+    "week": {
+      "title": "Kalender",
+      "showFullCalendar": "Toon volledige kalender"
+    },
+    "event": {
+      "local-time": "lokale tijd"
+    },
+    "preferences": {
+      "timezone": "Tijdzone",
+      "calendar-list": "Beschikbare kalenders",
+      "add-to-mobile": "Ontvang de kalender op je mobiele telefoon"
+    },
+    "ical": {
+      "linkCopiedConfirmation": "Link gekopieerd naar klembord.",
+      "linkCopiedError": "Kan link niet kopiëren naar klembord. Kopieer dit aub handmatig.",
+      "copyLinkButtonText": "Link kopiëren"
+    }
+  },
+  "newsfeed": {
+    "local": {
+      "title": "Lokaal",
+      "subtitle": "Nieuws en informatie vanuit "
+    },
+    "favorite": {
+      "title": "Mijn favorieten",
+      "subtitle": "Nieuws van {localChurchName} en je favoriete nieuwsbronnen"
+    },
+    "worldwide": {
+      "title": "Wereldwijd",
+      "subtitle": "Nieuws van websites over de hele wereld"
+    },
+    "preferences": {
+      "newsfeed-list": "Beschikbare nieuwsbronnen"
+    },
+    "ssf": {
+      "title": "Verborgen Schatten",
+      "subtitle": "Lees de nieuwste artikelen van SSSF!"
+    }
+  },
+  "tvguide": {
+    "title": "TV-gids",
+    "local-time-info": "Tijd weergegeven in uw lokale tijd",
+    "no-results": "Geen resultaten gevonden",
+    "watch-live": "Kijk live"
+  },
+  "weekdays": {
+    "today": "Vandaag",
+    "sunday": "Zondag",
+    "monday": "Maandag",
+    "tuesday": "Dinsdaag",
+    "wednesday": "Woensdag",
+    "thursday": "Donderdag",
+    "friday": "Vrijdag",
+    "saturday": "Zaterdag"
+  },
+  "birthday": {
+    "title": "Verjaardagen"
+  }
+}

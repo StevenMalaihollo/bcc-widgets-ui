@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "title": "Ton profil",
+    "edit-profile": "Modifier le profil",
+    "profile-picture": "Ma photo de profil",
+    "logins": "Mes identifiants",
+    "privacy-policy": "Politique de confidentialité",
+    "support": "Support",
+    "sign-out": "Déconnexion"
+  },
+  "search": {
+    "input-placeholder": "Rechercher",
+    "input-title": "Rechercher",
+    "results-websites-title": "Sites web",
+    "results-no-websites-found": "Aucun site web trouvé",
+    "results-no-persons-found": "Aucune occurrence trouvée",
+    "results-content-title": "Contenu",
+    "search-literature": "Rechercher '{searchQuery}' dans la littérature",
+    "search-BMM": "Rechercher '{searchQuery}' sur BMM",
+    "search-portal": "Rechercher '{searchQuery}' sur le portail de BCC",
+    "person-title": "Recherche d’adresse",
+    "person-result": {
+      "homePhone": "Téléphone fixe",
+      "cellphone": "Téléphone portable",
+      "name": "Nom",
+      "email": "Email",
+      "address": "Adresse",
+      "locality": "Assemblée locale"
+    },
+    "filterInfo": "Les résultats ont été filtrés d'après vos paramètres de confidentialité : <a href=\"{link}\">(en savoir plus)</a>"
+  },
+  "literature": {
+    "title": "Abonnements",
+    "subtitle": "Lis en ligne les publications auxquelles tu es abonné !",
+    "teaser-title": "La bibliothèque digitale de BCC",
+    "teaser-description": "Lisez des articles et des livres riches en contenu de la fondation Skjulte Skatters Forlag.",
+    "teaser-navigate-to-app": "Voir dans Littérature",
+    "subscribe-to-publication": "S'abonner à",
+    "subscribed-on-publication": "Abonné",
+    "latest-issue": "Dernière édition",
+    "navigate-to-publication": "Voir tout",
+    "navigate-to-signup-form": "En savoir plus"
+  },
+  "preferences": {
+    "title": "Préférences",
+    "save-my-preferences": "Enregistrer les préférences",
+    "sections": {
+      "local": "Local",
+      "church": "Assemblées",
+      "music": "Musique",
+      "recreation": "Activités",
+      "sport": "Sport",
+      "brunstad": "Brunstad",
+      "other": "Autre"
+    }
+  },
+  "calendar": {
+    "week": {
+      "title": "Calendrier",
+      "showFullCalendar": "Afficher le calendrier complet"
+    },
+    "event": {
+      "local-time": "heure locale"
+    },
+    "preferences": {
+      "timezone": "Fuseau horaire",
+      "calendar-list": "Calendriers disponibles",
+      "add-to-mobile": "Calendrier sur mobile"
+    },
+    "ical": {
+      "linkCopiedConfirmation": "Lien copié dans le presse-papier.",
+      "linkCopiedError": "Le lien n'a pas pu être copié. Veuillez le copier manuellement.",
+      "copyLinkButtonText": "Copier le lien"
+    }
+  },
+  "newsfeed": {
+    "local": {
+      "title": "Local",
+      "subtitle": "Nouvelles et informations de "
+    },
+    "favorite": {
+      "title": "Mes favoris",
+      "subtitle": "Nouvelles de {localChurchName} et de tes sites favoris"
+    },
+    "worldwide": {
+      "title": "Autour du monde",
+      "subtitle": "Nouvelles des sites Internet du monde entier"
+    },
+    "preferences": {
+      "newsfeed-list": "Sources disponibles"
+    },
+    "ssf": {
+      "title": "Trésors Cachés",
+      "subtitle": "Lisez les derniers articles de SSSF!"
+    }
+  },
+  "tvguide": {
+    "title": "Programmes TV",
+    "local-time-info": "Horaires affichés en heure locale",
+    "no-results": "Aucun résultat trouvé",
+    "watch-live": "Regarder en direct"
+  },
+  "weekdays": {
+    "today": "Auj.",
+    "sunday": "Dimanche",
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi"
+  },
+  "birthday": {
+    "title": "Anniversaires"
+  }
+}

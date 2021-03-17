@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "title": "Dein Profil",
+    "edit-profile": "Profil ändern",
+    "profile-picture": "Mein Profilbild",
+    "logins": "Meine Logins",
+    "privacy-policy": "Datenschutz-Bestimmungen",
+    "support": "Support",
+    "sign-out": "Abmelden"
+  },
+  "search": {
+    "input-placeholder": "Suchen",
+    "input-title": "Suchen",
+    "results-websites-title": "Webseiten",
+    "results-no-websites-found": "Keine Webseiten gefunden",
+    "results-no-persons-found": "Keine Treffer",
+    "results-content-title": "Inhalt",
+    "search-literature": "Suche nach '{searchQuery}' in der Literatur",
+    "search-BMM": "Suche nach '{searchQuery}' auf BMM",
+    "search-portal": "Suche nach '{searchQuery}' auf dem BCC Portal",
+    "person-title": "Adresssuche",
+    "person-result": {
+      "homePhone": "Telefon",
+      "cellphone": "Mobiltelefon",
+      "name": "Name",
+      "email": "E.Mail",
+      "address": "Adresse",
+      "locality": "Gemeinde"
+    },
+    "filterInfo": "Die Ergebnisse wurden in deiner Datenschutzeinstellungen gefiltert: <a href=\"{link}\">(mehr)</a>"
+  },
+  "literature": {
+    "title": "Abonnements",
+    "subtitle": "Lesen Sie online die Publikationen, die Sie abonniert haben!",
+    "teaser-title": "BCCs digitale Bibliothek",
+    "teaser-description": "Lies inhaltsreiche Artikel und Bücher vom Stiftelsen Skjulte Skatters Verlag.",
+    "teaser-navigate-to-app": "Siehe in der Literatur",
+    "subscribe-to-publication": "Abonnieren Sie",
+    "subscribed-on-publication": "Abonniert",
+    "latest-issue": "Letzte Ausgabe",
+    "navigate-to-publication": "Alle sehen",
+    "navigate-to-signup-form": "Lies mehr"
+  },
+  "preferences": {
+    "title": "Einstellungen",
+    "save-my-preferences": "Einstellungen speichern",
+    "sections": {
+      "local": "Lokal",
+      "church": "Gemeinden",
+      "music": "Musik",
+      "recreation": "Frizeit",
+      "sport": "Sport",
+      "brunstad": "Brunstad",
+      "other": "Andere"
+    }
+  },
+  "calendar": {
+    "week": {
+      "title": "Kalender",
+      "showFullCalendar": "Zeige ganzen Kalender"
+    },
+    "event": {
+      "local-time": "ortszeit"
+    },
+    "preferences": {
+      "timezone": "Zeitzone",
+      "calendar-list": "Verfügbare Kalender",
+      "add-to-mobile": "Hol den Kalender auf dein Handy"
+    },
+    "ical": {
+      "linkCopiedConfirmation": "Link in Zwischenablage kopiert.",
+      "linkCopiedError": "Link konnte nicht in die Zwischenablage kopiert werden. Bitte kopiere den Link manuell.",
+      "copyLinkButtonText": "Link kopieren"
+    }
+  },
+  "newsfeed": {
+    "local": {
+      "title": "Lokal",
+      "subtitle": "Neuigkeiten und Informationen von "
+    },
+    "favorite": {
+      "title": "Favoriten",
+      "subtitle": "Neuigkeiten von {localChurchName} und deiner Lieblingsnachrichtenquellen"
+    },
+    "worldwide": {
+      "title": "Weltweit",
+      "subtitle": "Neuigkeiten von Webseiten auf der ganzen Welt"
+    },
+    "preferences": {
+      "newsfeed-list": "Verfügbare Nachrichtenquellen"
+    },
+    "ssf": {
+      "title": "Verborgene Schätze",
+      "subtitle": "Lesen Sie die neuesten Artikel von SSSF!"
+    }
+  },
+  "tvguide": {
+    "title": "Fernsehprogramm",
+    "local-time-info": "Zeit wird in Ihrer Ortszeit angezeigt",
+    "no-results": "Keine Ergebnisse gefunden",
+    "watch-live": "Live ansehen"
+  },
+  "weekdays": {
+    "today": "Heute",
+    "sunday": "Sonntag",
+    "monday": "Montag",
+    "tuesday": "Dienstag",
+    "wednesday": "Mittwoch",
+    "thursday": "Donnerstag",
+    "friday": "Freitag",
+    "saturday": "Samstag"
+  },
+  "birthday": {
+    "title": "Geburtstage"
+  }
+}

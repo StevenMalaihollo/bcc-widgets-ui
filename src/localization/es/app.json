@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "title": "Tu perfil",
+    "edit-profile": "Editar perfil",
+    "profile-picture": "Mi foto de perfil",
+    "logins": "Mis cuentas",
+    "privacy-policy": "Política de privacidad",
+    "support": "Apoyo",
+    "sign-out": "Cerrar sesión"
+  },
+  "search": {
+    "input-placeholder": "Buscar",
+    "input-title": "Buscar",
+    "results-websites-title": "Sitios web",
+    "results-no-websites-found": "No se encontraron sitios web",
+    "results-no-persons-found": "No se han encontrado resultados",
+    "results-content-title": "Contenido",
+    "search-literature": "Buscar '{searchQuery}' en la literatura",
+    "search-BMM": "Buscar '{searchQuery}' en BMM",
+    "search-portal": "Busque '{searchQuery}' en el portal BCC",
+    "person-title": "Adressesøk",
+    "person-result": {
+      "homePhone": "Hjemmetelefon",
+      "cellphone": "Mobil",
+      "name": "Navn",
+      "email": "E-post",
+      "address": "Adresse",
+      "locality": "Lokalmenighet"
+    },
+    "filterInfo": "Resultatene har blitt filtrert på dine personverninnstillinger: <a href=\"{link}\">(les mer)</a>"
+  },
+  "literature": {
+    "title": "Abonnement",
+    "subtitle": "Les blader du abonnerer på her!",
+    "teaser-title": "BCCs digitale bibliotek",
+    "teaser-description": "Les innholdsrike artikler og bøker fra Stiftelsen Skjulte Skatters Forlag.",
+    "teaser-navigate-to-app": "Se i Litteratur",
+    "subscribe-to-publication": "Abonner på",
+    "subscribed-on-publication": "Ditt abonnement",
+    "latest-issue": "Siste utgave",
+    "navigate-to-publication": "Se alt",
+    "navigate-to-signup-form": "Les mer"
+  },
+  "preferences": {
+    "title": "Configuraciones",
+    "save-my-preferences": "Guardar ajustes",
+    "sections": {
+      "local": "Local",
+      "church": "Congregaciones",
+      "music": "Música",
+      "recreation": "Recreación",
+      "sport": "Deportes",
+      "brunstad": "Brunstad",
+      "other": "Diverso"
+    }
+  },
+  "calendar": {
+    "week": {
+      "title": "Calendario",
+      "showFullCalendar": "Mostrar calendario completo"
+    },
+    "event": {
+      "local-time": "hora local"
+    },
+    "preferences": {
+      "timezone": "Zona horaria",
+      "calendar-list": "Calendarios disponibles",
+      "add-to-mobile": "Obtén el calendario en tu teléfono"
+    },
+    "ical": {
+      "linkCopiedConfirmation": "Enlace copiado al portapapeles.",
+      "linkCopiedError": "No se puede copiar el enlace al portapapeles. Copie manualmente.",
+      "copyLinkButtonText": "Copiar link"
+    }
+  },
+  "newsfeed": {
+    "local": {
+      "title": "Lokalt",
+      "subtitle": "Nyheter og informasjon fra "
+    },
+    "favorite": {
+      "title": "Mine favoritter",
+      "subtitle": "Artikler fra {localChurchName} og dine favoritte nyhetskilder"
+    },
+    "worldwide": {
+      "title": "Verden rundt",
+      "subtitle": "Nyheter fra nettsider over hele verden"
+    },
+    "preferences": {
+      "newsfeed-list": "Tilgjengelige nyhetskilder"
+    },
+    "ssf": {
+      "title": "Skjulte Skatter",
+      "subtitle": "Les de siste artiklene fra SSSF her!"
+    }
+  },
+  "tvguide": {
+    "title": "Guía de televisión",
+    "local-time-info": "Los horarios se muestran en su hora local",
+    "no-results": "No se han encontrado resultados",
+    "watch-live": "Ver en directo"
+  },
+  "weekdays": {
+    "today": "Hoy",
+    "sunday": "Domingo",
+    "monday": "Lunes",
+    "tuesday": "Martes",
+    "wednesday": "Miércoles",
+    "thursday": "Jueves",
+    "friday": "Viernes",
+    "saturday": "Sábado"
+  },
+  "birthday": {
+    "title": "Cumpleaños"
+  }
+}

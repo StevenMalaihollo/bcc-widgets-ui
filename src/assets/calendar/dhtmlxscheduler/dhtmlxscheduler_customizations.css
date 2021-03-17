@@ -1,0 +1,151 @@
+/** dxhtml css overrides & customizations **/
+
+.dhx_cal_navline .dhx_cal_date {
+    margin: 0 !important;
+}
+
+.dhx_cal_container th, .dhx_cal_container td {
+    padding: 0;
+}
+
+/* Dxhtml agenda view */
+
+.dhx_scheduler_agenda .dhx_cal_prev_button,
+.dhx_scheduler_agenda .dhx_cal_next_button,
+.dhx_scheduler_agenda .dhx_cal_today_button,
+.dhx_scheduler_agenda .dhx_cal_date {
+    display: none !important;
+}
+
+.dhx_scheduler_agenda .dhx_tooltip {
+    display: none;
+}
+
+.dhx_cal_today_button, .dhx_cal_tab, .dhx_cal_prev_button, .dhx_cal_next_button, .dhx_cal_tab_standalone {
+    width: auto !important;
+    padding: 0 12px !important;
+}
+
+.dhx_cal_navline .dhx_cal_prev_button,
+.dhx_cal_navline .dhx_cal_next_button {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.dhx_cal_tab.custom.settings {
+    margin-right: -1px !important;
+}
+.dhx_cal_tab.custom.ical {
+    margin-left: 0 !important;
+}
+
+.dhx_cal_navline .dhx_cal_tab,
+.dhx_cal_today_button {
+    top: 70px !important;
+}
+.dhx_cal_today_button {
+    right: 0 !important;
+}
+.dhx_cal_navline .dhx_cal_today_button {
+    border: 1px solid #0288d1;
+}
+.dhx_cal_navline .dhx_cal_today_button:hover {
+    background-color: #edf8ff;
+    border: 1px solid #0288d1;
+}
+
+.dhx_cal_container,
+.dhx_cal_event_clear,
+.dhx_cal_event_line {
+    font-size: 11px !important;
+}
+
+.dhx_agenda_area .dhx_agenda_line span {
+    display: inline !important;
+}
+
+
+/* Dxhtml  Year View */
+
+.dhx_year_tooltip+.dhtmlXTooltip.tooltip,
+.dhx_year_tooltip.year+.dhtmlXTooltip.tooltip {
+    display: none;
+}
+
+.dhx_year_tooltip.day+.dhtmlXTooltip.tooltip,
+.dhx_year_tooltip.week+.dhtmlXTooltip.tooltip,
+.dhx_year_tooltip.month+.dhtmlXTooltip.tooltip,
+.dhx_year_tooltip.agenda+.dhtmlXTooltip.tooltip {
+    display: block;
+}
+
+.dhx_year_box .dhx_year_grid .dhx_year_body table tbody .dhx_before .dhx_month_head.dhx_year_event a,
+.dhx_year_box .dhx_year_grid .dhx_year_body table tbody td .dhx_month_head.dhx_year_event a {
+    color: #fff;
+}
+
+
+/* show tooltip in fullscreenmode correctly */
+
+.dhx_year_tooltip {
+    z-index: 10001;
+}
+
+
+/* this is the same as bcc-widget-event details */
+
+.dhtmlXTooltip.tooltip {
+    padding: 0;
+    z-index: 10001;
+}
+
+
+/* hide icons on year and agenda */
+
+.dhx_year_box .icon,
+.dhx_agenda_area .icon {
+    background-image: none !important;
+}
+
+
+#scheduler_here div.dhx_cal_navline {
+    box-sizing: border-box;
+    width: 100% !important;
+    padding: 0 20px;
+}
+
+.dhx_cal_data table {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 899px) {
+    .dhx_cal_navline .dhx_cal_tab, .dhx_cal_today_button {
+        top: 55px !important;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    .dhx_scheduler_agenda .dhx_cal_navline .dhx_cal_tab, .dhx_scheduler_agenda .dhx_cal_today_button {
+        top: 30px !important;
+    }
+}
+
+@media screen and (max-width: 749px) {
+    .dhx_cal_navline .dhx_cal_tab, .dhx_cal_today_button {
+        margin: -0.5px !important;
+    }
+}
+
+@media screen and (max-width: 449px) {
+    #scheduler_here div.dhx_cal_navline {
+        padding: 0 1px;
+    }
+    .dhx_cal_tab.custom.settings {
+        text-indent: -9999px;
+        background-image: url(imgs_dhx_material/settings.svg);
+        background-position: center;
+        background-size: 18px;
+        background-repeat: no-repeat;
+        width: 10px !important;
+    }
+}
