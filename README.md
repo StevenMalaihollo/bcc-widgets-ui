@@ -1,1 +1,1 @@
-# bcc-widgets-ui
+# BCC Widgets UI
