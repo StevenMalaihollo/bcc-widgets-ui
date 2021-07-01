@@ -10,6 +10,9 @@
               <a href="https://members.bcc.no/profile/">{{ $t("profile.edit-profile") }}</a>
           </li>
           <li>
+              <a href="https://vote.bcc.no/">{{ $t("profile.voting-app") }}</a>
+          </li>
+          <li>
               <a href="https://auth.bcc.no/?message=signout">{{ $t("profile.sign-out") }}</a>
           </li>
       </ul>
